@@ -1,4 +1,7 @@
-# test coverage for  [sw-precache (v5.1.0)](https://github.com/googlechrome/sw-precache)  [![npm package](https://img.shields.io/npm/v/npmtest-sw-precache.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sw-precache) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sw-precache.svg)](https://travis-ci.org/npmtest/node-npmtest-sw-precache)
+# npmtest-sw-precache
+
+#### basic test coverage for  [sw-precache (v5.1.0)](https://github.com/googlechrome/sw-precache)  [![npm package](https://img.shields.io/npm/v/npmtest-sw-precache.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sw-precache) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sw-precache.svg)](https://travis-ci.org/npmtest/node-npmtest-sw-precache)
+
 #### Generates a service worker to cache your local App Shell resources.
 
 [![NPM](https://nodei.co/npm/sw-precache.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sw-precache)
